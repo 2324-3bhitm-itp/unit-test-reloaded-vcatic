@@ -1,4 +1,4 @@
-package at.ac.htl.bhitm3.model;
+package at.ac.htl.leonding.bhitm3.main;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
